@@ -1,2 +1,2 @@
-# ajr-teaser
-Teaser Landing Website for AJR-NEWS
+# plusone-teaser
+Teaser Landing Website for TETSUDO-PLUSONE
